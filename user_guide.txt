@@ -1,0 +1,5 @@
+this project is based on sorting algorithem visualization in a less complicated way.the program consist of 2 files main.py and bubble_sort.py.
+first one is a user friendly gui which is actually the main component of the program and the secind one is a python script that consist of 
+the sorting algothem which are analyzed in the main.initially the program can visulize only 6 sorting technique namely bubble sort,merge sort
+insertion sort,selection sort,radix sort and quick sort.but the project is scalable and it can be extended into any number of sorting algorithem
+by integrating it in the bubble_sort.py script.the gui is developed by tkinter in python 3 version 64 bit.
